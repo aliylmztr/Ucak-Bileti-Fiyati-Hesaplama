@@ -1,12 +1,6 @@
-# Ucak-Bileti-Fiyati-Hesaplama
-Java Ucak Bileti Fiyati Hesaplama
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
         int km, age, type;
         double perKm = 0.10, total = 0;
